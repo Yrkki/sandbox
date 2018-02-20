@@ -889,3 +889,5 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
+
+[https://www.webpagefx.com/tools/emoji-cheat-sheet/](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
